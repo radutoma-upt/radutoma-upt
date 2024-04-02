@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @radutoma-upt
-- 👀 I’m interested in R, SQL, Java, Springboot, Rest API
+- 👀 I’m interested in R, SQL, Python, Java, Springboot, Rest API
 - 🌱 I learned at Polytechnic University of Timisoara (www.upt.ro)
 - 🌱 I’m currently learning at West University of Timisoara (www.uvt.ro)
 - 💞️ I’m looking to collaborate on ...
